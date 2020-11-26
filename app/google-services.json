@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "419853856548",
+    "firebase_url": "https://spotify-9b0a7.firebaseio.com",
+    "project_id": "spotify-9b0a7",
+    "storage_bucket": "spotify-9b0a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419853856548:android:55f2a6cb3fdf15228e8db1",
+        "android_client_info": {
+          "package_name": "com.example.spotifycl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419853856548-ac345cl52g8l8vi0opnpu8vi6h5cabop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCei7Lg-21YGS114WfwGGbQPysS5k7iODU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419853856548-ac345cl52g8l8vi0opnpu8vi6h5cabop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
