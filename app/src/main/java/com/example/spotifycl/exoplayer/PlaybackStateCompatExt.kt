@@ -12,4 +12,5 @@ inline val PlaybackStateCompat.isPlaying
             state == PlaybackStateCompat.STATE_PLAYING
 
 inline val PlaybackStateCompat.isPlayEnabled
-    get() = actions and PlaybackStateCompat.ACTION_PLAY != 0L || (actions and PlaybackStateCompat.ACTION_PLAY_PAUSE != 0L && state==PlaybackStateCompat.STATE_PAUSED )
+    get() = actions and PlaybackStateCompat.ACTION_PLAY != 0L || (actions and PlaybackStateCompat.ACTION_PLAY_PAUSE != 0L &&
+            state==PlaybackStateCompat.STATE_PAUSED )
